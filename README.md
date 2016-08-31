@@ -6,7 +6,7 @@
 
 * [AngularJS之$digest循环和$apply](201608/04.md)
 
-* [AngularJS相关问题](#1)
+* [AngularJS相关问题](#&#x2026;1)
 
 ### 前端工程相关学习笔记
 
